@@ -48,5 +48,5 @@ def get_calendar():
                    'events': events}
     return return_dict
 
-if __name__ == "__main__":
-    app.run(port=5000, threaded=True)
+# if __name__ == "__main__":
+    # app.run(port=5000, threaded=True)
